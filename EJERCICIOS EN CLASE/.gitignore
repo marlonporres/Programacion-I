@@ -1,0 +1,9 @@
+# Ignorar configuraciones locales
+.vscode/
+
+# Ignorar todo archivo sin extensión (bloquea los ejecutables de Linux)
+*
+# Permitir archivos con extensión (salva tus .cpp, .md, .txt)
+!*.*
+# Permitir que lea las carpetas
+!*/
